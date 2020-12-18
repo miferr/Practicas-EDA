@@ -1,5 +1,5 @@
 //Miguel Ferreras Chumillas
-/*
+
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -57,4 +57,4 @@ int main() {
 #endif
 
 	return 0;
-}*/
+}
